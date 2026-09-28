@@ -248,7 +248,7 @@ Resolution of Conflict: In the event that two teams under the same ownership qua
 
 ### 4.1.4 Stand-in Rules
 
-As previously stated, each team is permitted to register two (2) stand-in players for the Open Qualifiers, and one (1) stand-in for the Main Stage. The team coach may also serve as a stand-in, subject to all applicable rules outlined herein.
+Each team is permitted to register two (2) stand-in players for the Open Qualifiers, and one (1) stand-in for the Main Stage. The team coach may also serve as a stand-in, subject to all applicable rules outlined herein.
 
 Stand-ins are eligible only if they have not participated for another team in the same tournament. A stand-in must be approved by Tournament Officials prior to the start of the respective match.
 
@@ -315,39 +315,41 @@ LD will use the most up-to-date version of Counter-Strike 2
 
 **Best of One’s**
 
-Team 1 *(Higher Seed)* has the choice of which team bans first after the which the pick & ban procedure is as follows:
+The higher seed team chooses to be Team A or Team B
 
-- Team A - Ban
-- Team B - Ban
-- Team B - Ban
-- Team A - Ban
-- Team A - Ban
-- Team B - Ban
-- Final Map Left Over (Knife for sides)
-- Knife for sides
+- Team A removes 2 maps
+- Team B removes 3 maps
+- Team A removes 1 map
+- Team B chooses starting side
 
 **Best of Three’s**
 
-Team 1 *(Higher Seed)* has the choice of which team bans first after the which the pick & ban procedure is as follows:
+The higher seed team chooses to be Team A or Team B
 
-- Team A - Ban
-- Team B - Ban
-- Team A - Pick (Team B - Choice of side)
-- Team B - Pick (Team A - Choice of side)
-- Team A - Ban
-- Team B - Ban
-- Final Map Left Over (Knife for sides)
+- Team A removes 1 map
+- Team B removes 1 map
+- Team A picks the map 1
+  - Team B chooses starting side on map 1
+- Team B picks map 2
+  - Team A chooses starting side on map 2
+- Team B removes one map
+- Team A removes one map
+- Team B chooses starting side on map 3
 
 **Best of Five’s**
 
-Team 1 *(Higher Seed)* has the choice of which team bans first after the which the pick & ban procedure is as follows:
+The higher seed team chooses to be Team A or Team B
 
 - Team A - Ban
 - Team B - Ban
-- Team A - Pick (Team B - Choice of side)
-- Team B - Pick (Team A - Choice of side)
-- Team A - Pick (Team B - Choice of side)
-- Team B - Pick (Team A - Choice of side)
+- Team A picks the map 1
+  - Team B chooses starting side on map 1
+- Team B picks map 2
+  - Team A chooses starting side on map 2
+- Team A picks the map 3
+  - Team B chooses starting side on map 3
+- Team B picks map 4
+  - Team A chooses starting side on map 4
 - Final Map Left Over (Knife for sides)
 
 ### 4.2.5 Match Configuration
