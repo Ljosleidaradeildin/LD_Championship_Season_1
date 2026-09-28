@@ -1,11 +1,11 @@
 ### **1. Dates**
 
 - [Open Qualifiers - bæta við link :🔴🔴
-    - Swiss BO3 Round 1: Oct 20, 2026
-    - Swiss BO3 Round 2: Oct 22, 2026
-    - Swiss BO3 Round 3: Oct 27, 2026
-    - Swiss BO3 Round 4: Oct 29, 2026
-    - Swiss BO3 Round 5: Nov 3, 2026
+    - Swiss Round 1: Oct 20, 2026
+    - Swiss Round 2: Oct 22, 2026
+    - Swiss Round 3: Oct 27, 2026
+    - Swiss Round 4: Oct 29, 2026
+    - Swiss Round 5: Nov 3, 2026
 - Main Stage
     - Group Stage
         - GSL Groups Round 1: Nov 5, 2026
@@ -14,19 +14,26 @@
     - Playoffs
         - Semi Finals 1: Nov 17, 2026
         - Semi Finals 2: Nov 19, 2026
-        - GSL Groups Round 3: Nov 12, 2026
     - LAN Finals
         - Grand Final: Oct 3, 2026
 
 ### **2. Format**
 
 - Open Qualifiers:
-    - 20 spots available. First come, first served. [Open signups through form](https://forms.gle/VhHV7sk5rwGGbbdVA).
-        - The list of registered teams in available [here](https://docs.google.com/spreadsheets/d/1S23D6px94FTjtUYUVbpliWTUXvpes1JEUU17aqxPNH0/edit?usp=sharing).
-    - Stage 1: Single-elimination BO3 knockout. Stage 2: GSL Groups BO3
-    - 2 teams from each GSL group advance to the Main Stage. 8 Teams in total.
+    - 16 spots available. First come, first served. [Open signups through form] - gera link 🔴🔴
+        - The list of registered teams in available [here]🔴🔴🔴.
+    - Swiss Bracket, B03 Matches. 8 Teams advance to the Main Stage.
 - Main Stage:
-    - Single Elimination Bracket
+    - Group Stage
+        - 8 teams.
+        - Two GSL Groups (Group A and B).
+        - BO3 Matches.
+        - 4 teams advance to Playoffs.
+    - Playoffs
+        - 4 teams.
+        - Single Elimination.
+        - BO3 Matches.
+        - 2 teams advance to Lan Finals.
     - All Games BO3
     - 8 Teams Total
     - Winners of Semi Finals Qualify to LAN Finals
