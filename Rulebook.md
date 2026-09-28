@@ -53,24 +53,24 @@ The format of LD Championship Season 1 is as follows:
 |---|---|---|---|
 | Open Qualifiers | Open Sign-ups <br> 16 available spots | BO3 Swiss | 8 Teams advance to Main Stage |
 | Main Stage - Groups | 8 Qualified teams | Two GSL Groups | 4 Teams advance to Playoffs |
-| Playoffs | 4 Qualified teams | BO3 Single-Elimination <br> 1st A vs 2nd B & 1st B VS 2nd A | 2 Teams advance to LAN Finals |
+| Playoffs | 4 Qualified teams | BO3 Single-Elimination <br> (Semi-Finals) | 2 Teams advance to LAN Finals |
 | LAN Finals | 2 Qualified | BO5 Match | 2 Prize Money Winners |
 
 
 ### 3.1.1 Open Qualifier Rules & Regulations
 
 **Tournament Capacity & Selection Criteria:**
-Registration for the LD Challenger Series 1 Open Qualifiers is fully open to the public, subject to the eligibility rules outlined in Section 4.1.
+Registration for the LD Championship Season 1 Open Qualifiers is fully open to the public, subject to the eligibility rules outlined in Section 4.1.
 
-Maximum Bracket Capacity: The Open Qualifier is strictly capped at a maximum of 20 teams.
+Maximum Bracket Capacity: The Open Qualifier is strictly capped at a maximum of 16 teams.
 
 First-Come, First-Served (FCFS): To ensure total transparency and fairness in accordance with Valve Tournament Operation Requirements (TOR), all available tournament slots will be allocated purely on a first-come, first-served basis based on the exact digital timestamp of the Team Registration form.
 
 All Team Registrations are subject to verification by the Tournament Organizer (TO). The TO reserves the right to reject, invalidate, or remove any registration that contains incomplete, false, or inaccurate data, or fails to satisfy eligibility rules (e.g., active VAC bans, incorrect region, missing Steam IDs). If a registration is deemed invalid, the spot will be passed to the next valid submission in the timestamp queue.
 
-The live list of registered teams is available here: [Áskorendamót Ljósleiðarans - Registered Teams](https://docs.google.com/spreadsheets/d/1S23D6px94FTjtUYUVbpliWTUXvpes1JEUU17aqxPNH0/edit?usp=sharing)
+The live list of registered teams is available here: [Áskorendamót Ljósleiðarans - Registered Teams](https://docs.google.com/spreadsheets/d/1S23D6px94FTjtUYUVbpliWTUXvpes1JEUU17aqxPNH0/edit?usp=sharing) 🔴🔴🔴
 
-Once the 20-team capacity is filled, subsequent teams completing registration will be placed on waitlist based on registration timestamps.
+Once the 16-team capacity is filled, subsequent teams completing registration will be placed on waitlist based on registration timestamps.
 
 **Qualifier Seeding**
 
@@ -88,27 +88,20 @@ Invalid or Missing Links (Administrative Error): Failure to provide a valid, act
 
 False or Fraudulent Profiles (Identity Misrepresentation): Submitting a false, fraudulent, or deceptive FACEIT profile link—including but not limited to an account the player does not personally own, an account belonging to another individual, or a smurf account meant to distort rankings—is strictly prohibited. If a player is found to have submitted a false account link, the entire team will be immediately disqualified and removed from the qualifier.
 
-**Open Qualifier format and scaling**
-
-The Open Qualifier structure scales dynamically based on the final number of checked-in teams to ensure a clean mathematical progression:
-
-| Checked-In Teams | Format Structure | Progression Details |
-| :--- | :--- | :--- |
-| **17 to 20 Teams** | **Two-Stage Format**<br>Stage 1: BO3 Single Elimination Play-In<br>Stage 2: GSL Groups (BO3) | **Seeds 1–12:** Advance directly to Stage 2.<br>**Seeds 13–20:** Enter Stage 1 Play-Ins. Teams will play a BO3 single-elimination knockout round to determine the 4 teams advancing to Stage 2. |
-| **16 or Fewer Teams** | **Single-Stage Format**<br>Stage 2: GSL Groups (BO3) | **All Teams:** Skip Stage 1 entirely and are seeded directly into the Stage 2 GSL Groups. |
 
 ### 3.1.2 Main Event Rules & Regulations
 **Main Event Seeding Priority Hierarchy:**
 The Main Event stage consists entirely of teams advancing from the Open Qualifier. Initial seeding for the Main Event bracket will be reset and determined strictly by Valve Tournament Operating Requirements (TOR) regarding stage seeding:
 
 1. **VRS Priority:** Any advancing teams holding an active Global Valve Regional Standings (VRS) rank as of the locked snapshot date will automatically be assigned the highest seeds, ordered from highest global rank to lowest.
-2. **Qualifier Performance:** All unranked teams will be seeded below the VRS-ranked teams. Their seeding order will be determined by their placement in the Open Qualifier GSL Groups.
+2. **Qualifier Performance:** All unranked teams will be seeded below the VRS-ranked teams. Their seeding order will be determined by their performance in the Open Qualifier Swiss bracket.
 3. **Tiebreakers:** Identical qualifier placements among unranked teams will be resolved using the starting roster's average FACEIT Elo snapshot taken at the original registration deadline.
 
-| Checked-In Teams | Format Structure |
-| :--- | :--- |
-| **8 Teams** | **BO3 Single Elimination**<br>(BO5 Final) |
+**Group stage**
+The teams will be placed in to two GSL groups based on the following seeding.
 
+Group A: Seed 1, Seed 4, Seed 5, Seed 8.
+Group A: Seed 2, Seed 3, Seed 6, Seed 7.
 
 ## 3.2 VRS Invites
 
