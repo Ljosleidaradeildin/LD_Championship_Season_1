@@ -1,4 +1,4 @@
-This rulebook governs the LD Challengers Series 1 (Áskorendamót Ljósleiðarans Haust 2026). All players who compete in the LD Challengers Series 1 agree to follow the rules outlined in this document. For any questions please contact the tournament officials and defer to their judgement.
+This rulebook governs the LD Championship Season 1 (Íslandsmeistaramót Ljósleiðarans 2026). All players who compete in the LD Championship Season 1 agree to follow the rules outlined in this document. For any questions please contact the tournament officials and defer to their judgement.
 
 For contact purposes please reach out to the tournament operator, RÍSÍ, through rafithrottir@rafithrottir.is
 
@@ -47,13 +47,13 @@ Each Event Additional Information will be, as per Valve TOR, documented via the 
 
 ## 3.1 Tournament Information
 
-The format of LD Challengers Series 1 is as follows:
+The format of LD Championship Season 1 is as follows:
 
 | Event Stage | Teams | Format | Winners |
 |---|---|---|---|
-| Open Qualifiers | Open Sign-ups <br>20 available spots | Stage 1: BO3 Single Elimination Play-In <br>Stage 2: GSL Groups BO3 | 8 Teams advance to Main Stage |
-| Knockout Stage <br>(Main Stage) | 8 Qualified | Single Elimination BO3 Matches | 2 Teams advance to LAN Finals<br> 2 Teams advance to Third Place Decider |
-| Third Place Decider | 2 Qualified | BO3 Match | 1 Prize Money Winner |
+| Open Qualifiers | Open Sign-ups <br> 16 available spots | BO3 Swiss | 8 Teams advance to Main Stage |
+| Main Stage - Groups | 8 Qualified teams | Two GSL Groups | 4 Teams advance to Playoffs |
+| Playoffs | 4 Qualified teams | BO3 Single-Elimination <br> 1st A vs 2nd B & 1st B VS 2nd A | 2 Teams advance to LAN Finals |
 | LAN Finals | 2 Qualified | BO5 Match | 2 Prize Money Winners |
 
 
