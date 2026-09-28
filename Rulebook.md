@@ -116,7 +116,7 @@ If invites are used they will be based on VRS sub-lists, as follows:
 
 | Event | VRS Region & Sub Lists | Starting Rank | # Slots |
 |---|---|---|---|
-| LD Challengers Series 1 | Europe VRS<br>(Iceland Country Filter) | Starting from Rank 12 | 4 Invites |
+| LD Championship Season 1 | Europe VRS<br>(Iceland Country Filter) | Starting from Rank 12 | 4 Invites |
 
 If the number of eligible VRS Teams is lower than the total number of Direct VRS Invite slots, LD reserves the right to reallocate any unfilled slot(s) to Open Qualifiers. This reallocation will be announced via [Ljósleiðaradeildin](https://www.facebook.com/ljosleidaradeildin) on Facebook prior to the event.
 
@@ -166,7 +166,7 @@ Please use the link below to join: [Ljósleiðaradeildin Discord](https://discor
 
 ## 3.9 Prize Money
 
-Total Prize Pool for LD Challenger Series 1: 650,000 kr. (~ $5,397.33)
+Total Prize Pool for LD Championship Season 1: 650,000 kr. (~ $5,397.33)
 1st Place: 500,000 kr. (~ $4,151.79)
 2nd Place: 150,000 kr. (~ $1,245.54)
 
