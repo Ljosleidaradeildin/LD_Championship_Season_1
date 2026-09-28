@@ -166,10 +166,9 @@ Please use the link below to join: [Ljósleiðaradeildin Discord](https://discor
 
 ## 3.9 Prize Money
 
-Total Prize Pool for LD Challenger Series 1: 500,000 kr. (~ $3,971 USD)
-1st Place: 300,000 kr. (~ $2,380 USD)
-2nd Place: 125,000 kr. (~ $991 USD)
-3RD Place: 75,000 kr. (~ $595 USD)
+Total Prize Pool for LD Challenger Series 1: 650,000 kr. (~ $5,397.33)
+1st Place: 500,000 kr. (~ $4,151.79)
+2nd Place: 150,000 kr. (~ $1,245.54)
 
 Prize money will be paid out through wire transfer after the conclusion of the tournament using the national identification number (kennitala) and bank number (bankanúmer) the team provided in the registration.
 
@@ -209,9 +208,9 @@ Teams are expected to fulfil their tournament commitments in full once participa
 
 Forfeiting matches or withdrawing will also result in forfeiture of any Prize Money accumulated up to that point.
 
-For the LD Challengers Series 1 tournament, following the registration deadline and roster lock on September 6th - team withdrawals are no longer possible.
+For the LD Championship Season 1 tournament, following the registration deadline and roster lock on October 25th - team withdrawals are no longer possible.
 
-## 4.1 Participation in LD Challengers Series 1 - Player & Team Eligibility
+## 4.1 Participation in LD Championship Season 1 - Player & Team Eligibility
 
 ### 4.1.1  Player Eligibility
 
