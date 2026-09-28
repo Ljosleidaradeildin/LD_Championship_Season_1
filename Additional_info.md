@@ -33,13 +33,9 @@
         - 4 teams.
         - Single Elimination.
         - BO3 Matches.
-        - 2 teams advance to Lan Finals.
-    - All Games BO3
-    - 8 Teams Total
-    - Winners of Semi Finals Qualify to LAN Finals
-    - Losers of Semi Finals play Third Place Decider
-- LAN Final:
-    - Single Best of 5 match
+        - 2 teams advance to LAN Finals.
+    - LAN Finals
+        - BO5 Grand Final
 
 ### **3. Teams**
 
