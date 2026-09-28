@@ -55,7 +55,7 @@ If a team requires a stand-in for a qualifier, the stand-in must be registered a
 
 - Invite Publication: N/A
 - Seeding:
-    - Valve Regional Standings for Europe as of September 2026
+    - [Valve Regional Standings for Europe as of October 5th 2026](https://github.com/ValveSoftware/counter-strike_regional_standings/tree/main/invitation/2026/details)
     - Open Qualifier Placement (Applicable only for the Main Stage)
     - Average FACEIT ELO
 - Location:
@@ -77,8 +77,7 @@ If a team requires a stand-in for a qualifier, the stand-in must be registered a
 
 ### **8. Prize Distribution**
 
-Total Prize pool: 500,000 kr. *($4,057.12)*
+Total Prize pool: 650,000 kr. *($5,397.33)*
 
-- 1st Place – 300,000 kr. *($2,434.27)*
-- 2nd Place – 125,000 kr. *(1,014.28)*
-- 3rd Place – 75,000 kr. *($608.57)*
+- 1st Place – 500,000 kr. *($4,151.79)*
+- 2nd Place – 150,000 kr. *($1,245.54)*
