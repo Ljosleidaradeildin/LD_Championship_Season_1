@@ -101,7 +101,14 @@ The Main Event stage consists entirely of teams advancing from the Open Qualifie
 The teams will be placed in to two GSL groups based on the following seeding.
 
 Group A: Seed 1, Seed 4, Seed 5, Seed 8.
-Group A: Seed 2, Seed 3, Seed 6, Seed 7.
+Group B: Seed 2, Seed 3, Seed 6, Seed 7.
+
+**Playoffs**
+The Playoffs (Semi-finals) matchups will be as follows:
+
+Semi-Finals 1: [Winners match winner Group A] vs [Decider match winner Group B]
+Semi-Finals 2: [Winners match winner Group B] vs [Decider match winner Group A]
+
 
 ## 3.2 VRS Invites
 
