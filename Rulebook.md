@@ -307,6 +307,7 @@ LD will use the most up-to-date version of Counter-Strike 2
 
 ### 4.2.3 Matchroom Cycle
 
+- Teams receive Veto links through Flux.
 - Higher Seed decides who picks first in veto.
 - Vote for maps
 - Play
@@ -392,6 +393,8 @@ Technical pauses can be used at any time but will come into effect at the next f
 
 Match vetoes will begin at the scheduled time of match displayed on the page, the captain must be ready to veto at this time. If the captain will not be available for the match, the team must inform the admin team so the captaincy can be transferred.
 
+If a team fails to join the map veto within 15 minutes of the scheduled match start time, they will be marked as a no-show and automatically forfeit the series.
+
 All matches must start 15 minutes after the veto has finished with all 10 players joining the server. Otherwise the match will be forfeited by the team that has not joined.
 
 In the event of a technical issue where the team has made an admin aware and the affected player is present, the game server can be restarted with no forfeit.
@@ -411,14 +414,12 @@ A team can not intentionally stall the match configuration or intentionally brea
 1. Default Match Time
 The default match time for the Open Qualifier and Main Stage is 19:15 GMT on Tuesdays or Thursdays.
 
-  The only exceptions are the Grand Final and Third-place decider:
-  Third-place decider: Oct 2, 2026 at 19:15 GMT (Friday)
-  Grand Final: Oct 3, 2026 at 18:00 GMT (Saturday)
+  The only exceptions are the Grand Final match, which is set for November 21st at 18:00 GMT.
 
-3. Schedule Changes & Rescheduling
+2. Schedule Changes & Rescheduling
 Teams are permitted to reschedule their matches. However, the Tournament Administration must always ensure that there is at least one match available for broadcast at 19:15 GMT every Tuesday and Thursday.
 
-4. Requirements for a Rescheduling Request
+3. Requirements for a Rescheduling Request
 - Both teams must fully agree on the new date and time.
 - The new date and time must be within a reasonable timeframe from the original match time, and not clash with or disrupt tournament operations for the following rounds.
 
@@ -443,7 +444,7 @@ Players must use the following TeamSpeak server to communicate during matches.
 
 ts.cs2.is
 
-Teams are allowed to have 5 players and the registered coach during a live game in their TeamSpeak channel.
+Teams are allowed to have 5 players and the registered coach during a live game in their TeamSpeak channel. The coach must abide to all the coach rules listed in section 4.1.5.
 
 ### 4.2.9 Match Rules
 
@@ -511,6 +512,8 @@ If a team forfeits or gets disqualified from LD during any phase, all matches in
 **Media Obligations**
 Registered teams may be required to participate in official media activities, including photo shoots, promotional content, and broadcast interviews. Players must actively coordinate with LD and RÍSÍ to fulfill these commitments professionally and on schedule.
 
+Players are required to work with tournament admins and the broadcast teams to provide player photos and connect their web cameras for broadcast matches.
+
 **Confidentiality of Admin Communications**
 All communications between players and tournament organizers are strictly private. Sharing, transcribing, or publishing these messages without prior consent from tournament management is prohibited.
 
@@ -528,3 +531,8 @@ Competing while under the influence of alcohol, drugs, or any intoxicating subst
 
 **Competitive Integrity**
 Players must compete to win at all times. Intentionally throwing games, match-fixing, or failing to play to full capacity is strictly forbidden.
+
+
+**Punishment**
+
+Failure to comply with these rules may lead to suspensions from one or more future LD tournaments and other RÍSÍ Competitions.
