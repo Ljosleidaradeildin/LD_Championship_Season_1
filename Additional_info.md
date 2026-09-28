@@ -1,18 +1,22 @@
 ### **1. Dates**
 
-- [Open Qualifiers](https://forms.gle/VhHV7sk5rwGGbbdVA):
-    - Stage 1 - Single Elimination BO3: Sept 8, 2026
-    - Stage 2 - GSL Groups BO3 Round 1: Sept 10, 2026
-    - Stage 2 - GSL Groups BO3 Round 2: Sept 15, 2026
-    - Stage 2 - GSL Groups BO3 Round 3: Sept 17, 2026
-- Main Stage:
-    - Quarter Finals 2/4: Sept 22, 2026
-    - Quarter Finals 4/4: Sept 24, 2026
-    - Semi Finals 1: Sept 29, 2026
-    - Semi Finals 2: Oct 1, 2026
-    - Third Place Decider: Oct 2, 2026
-- LAN Finals
-    - Grand Final: Oct 3, 2026
+- [Open Qualifiers - bæta við link :🔴🔴
+    - Swiss BO3 Round 1: Oct 20, 2026
+    - Swiss BO3 Round 2: Oct 22, 2026
+    - Swiss BO3 Round 3: Oct 27, 2026
+    - Swiss BO3 Round 4: Oct 29, 2026
+    - Swiss BO3 Round 5: Nov 3, 2026
+- Main Stage
+    - Group Stage
+        - GSL Groups Round 1: Nov 5, 2026
+        - GSL Groups Round 2: Nov 10, 2026
+        - GSL Groups Round 3: Nov 12, 2026
+    - Playoffs
+        - Semi Finals 1: Nov 17, 2026
+        - Semi Finals 2: Nov 19, 2026
+        - GSL Groups Round 3: Nov 12, 2026
+    - LAN Finals
+        - Grand Final: Oct 3, 2026
 
 ### **2. Format**
 
