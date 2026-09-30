@@ -1,6 +1,6 @@
 ### **1. Dates**
 
-- [Open Qualifiers - bæta við link :🔴🔴
+- [Open Qualifiers](https://forms.gle/m68KDfxFa3ryXiRF7):
     - Swiss Round 1: Oct 20, 2026
     - Swiss Round 2: Oct 22, 2026
     - Swiss Round 3: Oct 27, 2026
@@ -20,7 +20,7 @@
 ### **2. Format**
 
 - Open Qualifiers:
-    - 16 spots available. First come, first served. [Open signups through form] - gera link 🔴🔴
+    - 16 spots available. First come, first served. [Open signups through form](https://forms.gle/m68KDfxFa3ryXiRF7).
         - The list of registered teams in available [here](https://docs.google.com/spreadsheets/d/1VS9oFo_jf5SKQ8vsbzbaWrfzaQvwxyWVWigRAVll59Q/edit?usp=sharing).
     - Swiss Bracket, B03 Matches. 8 Teams advance to the Main Stage.
 - Main Stage:
