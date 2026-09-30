@@ -21,7 +21,7 @@
 
 - Open Qualifiers:
     - 16 spots available. First come, first served. [Open signups through form](https://forms.gle/m68KDfxFa3ryXiRF7).
-        - The list of registered teams in available [here](https://docs.google.com/spreadsheets/d/1VS9oFo_jf5SKQ8vsbzbaWrfzaQvwxyWVWigRAVll59Q/edit?usp=sharing).
+        - The list of registered teams is available [here](https://docs.google.com/spreadsheets/d/1VS9oFo_jf5SKQ8vsbzbaWrfzaQvwxyWVWigRAVll59Q/edit?usp=sharing).
     - Swiss Bracket, B03 Matches. 8 Teams advance to the Main Stage.
 - Main Stage:
     - Group Stage
