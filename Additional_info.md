@@ -29,7 +29,7 @@
         - Two GSL Groups (Group A and B).
         - BO3 Matches.
         - 4 teams advance to Playoffs.
-    - Playoffs
+    - Playoffs (Semi-Finals)
         - 4 teams.
         - Single Elimination.
         - BO3 Matches.
