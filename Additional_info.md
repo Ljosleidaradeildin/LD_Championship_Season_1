@@ -15,7 +15,7 @@
         - Semi Finals 1: Nov 17, 2026
         - Semi Finals 2: Nov 19, 2026
     - LAN Finals
-        - Grand Final: Oct 3, 2026
+        - Grand Final: Nov 21, 2026
 
 ### **2. Format**
 
