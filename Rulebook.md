@@ -208,7 +208,7 @@ Teams are expected to fulfil their tournament commitments in full once participa
 
 Forfeiting matches or withdrawing will also result in forfeiture of any Prize Money accumulated up to that point.
 
-For the LD Championship Season 1 tournament, following the registration deadline and roster lock on October 25th - team withdrawals are no longer possible.
+For the LD Championship Season 1 tournament, following the registration deadline and roster lock on October 18th - team withdrawals are no longer possible.
 
 ## 4.1 Participation in LD Championship Season 1 - Player & Team Eligibility
 
